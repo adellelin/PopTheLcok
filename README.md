@@ -1,10 +1,10 @@
 # PopTheLock
 
+Set viewing aspect to 9:16
+
 To play, use mouse left click
 
 Notes:
-
-Assets placed within scene
 
 UI elements on top bar reflect number of stars caught
 
